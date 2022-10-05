@@ -1,0 +1,18 @@
+package aula01;
+
+public class ImprimindoVariaveis {
+	// Comentário de uma linha
+	public static void main(String[]args) {
+		int number;
+		int idade = 10;
+		System.out.println("Dados Impressos");
+		System.out.println(number);
+	}
+	/*
+	 Comentário maior que uma linha
+	 */
+	
+	/***
+	 * Comentário para documentação (de classes e funções)
+	 */
+}
