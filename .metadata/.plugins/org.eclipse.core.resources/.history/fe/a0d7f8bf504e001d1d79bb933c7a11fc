@@ -1,0 +1,16 @@
+package dio;
+
+public class DioExer8 {
+	public static void main(String[] args) {
+		String sigla = "M";
+		switch sigla:
+			case "S":
+				System.out.println("SMALL");
+			case "M":
+				System.out.println("MEDIUM");
+			case "L":
+				System.out.println("LARGE");
+			case "U":
+				System.out.println("Undefined");
+	}	
+}
