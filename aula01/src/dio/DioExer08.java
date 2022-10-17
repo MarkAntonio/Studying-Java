@@ -1,6 +1,6 @@
 package dio;
 
-public class DioExer8 {
+public class DioExer08 {
 	public static void main(String[] args) {
 		String sigla = "S";
 		switch (sigla) {
