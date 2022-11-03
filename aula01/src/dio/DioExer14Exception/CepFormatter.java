@@ -1,4 +1,4 @@
-package dio.DioExer14;
+package dio.DioExer14Exception;
 
 public class CepFormatter {
 	public static void main(String[] args) {

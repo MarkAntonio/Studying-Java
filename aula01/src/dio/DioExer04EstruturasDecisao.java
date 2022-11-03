@@ -1,6 +1,6 @@
 package dio;
 
-public class DioExer04 {
+public class DioExer04EstruturasDecisao {
 	public static void main(String[] args) {
 		double saldo = 25.0;
 		double valorSolicitado = 25.0;

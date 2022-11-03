@@ -1,6 +1,6 @@
 package dio;
 
-public class DioExer01Calculadora {
+public class DioExer01FuncoesCalculadora {
 	public static void main(String[] args) {
 		int n1 = 30;
 		int n2 = 15;

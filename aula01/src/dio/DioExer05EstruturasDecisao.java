@@ -1,6 +1,6 @@
 package dio;
 
-public class DioExer05 {
+public class DioExer05EstruturasDecisao {
 	public static void main(String[] args) {
 		int nota = 6;
 		

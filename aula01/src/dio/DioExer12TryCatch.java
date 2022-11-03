@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 import java.util.Locale;
 
-public class DioExer12 {
+public class DioExer12TryCatch {
 	public static void main(String[] args) {
 		try {
 		Scanner scanner = new Scanner(System.in).useLocale(Locale.US);

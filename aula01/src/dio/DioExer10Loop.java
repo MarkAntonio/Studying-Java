@@ -1,6 +1,6 @@
 package dio;
 
-public class DioExer10 {
+public class DioExer10Loop {
 	public static void main(String[] args) {
 		String alunos[] = { "Clarice", "Fábio", "Neto", "Diana", "Ivanilde", "Marco" };
 		for (int index = 0; index < alunos.length; index++) {

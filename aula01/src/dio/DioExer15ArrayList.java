@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
-public class DioExer15 {
+public class DioExer15ArrayList {
 	public static void main(String[] args) {
 		List<Double> score = new ArrayList<Double>();
 		score.add(7.0);
